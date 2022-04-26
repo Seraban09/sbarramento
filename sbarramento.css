@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.container-principale{
+    display: flex;
+    
+
+}
+nav{
+background-color: aqua;
+height: 850px;
+width: 15%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+
+.nav-profilo{
+    display: flex;
+}
+
+
+.icona{
+    background-color: grey;
+    padding: 5px;
+}
+
+.nome-profilo{
+    background-color: grey;
+    padding: 5px;
+}
+
+
+.bottoni{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.immagine img{
+    width: 50%;
+}
+
+
+
+
+
+
+
+main{
+background-color: blue;
+height: 850px;
+width: 60%;
+}
+aside{
+background-color: blueviolet;
+height: 850px;
+width:25%;
+}

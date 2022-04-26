@@ -1,0 +1,11 @@
+Main (parte centrale)
+Flex box principale a colonna di 3 contenitori (header superiore, header inferiore, contenuto principale)
+Header superiore ed inferiore sono 2 flexbox in riga con justify content space between, e la parte sotto è un'emorme grid 2x2 con la prima riga che occupa 2 colonne con un gap di 10 pixel.
+
+
+
+Aside (parte destra)
+Flexbox principale a colonna di 3contenitori con justify-content in space between:
+Parte superiore: Elemento con Border Radius 50% per arrotondarlo e rettangolo (flexbox row)
+Parte inferiore: Un rettangolone 
+Parte centrale: 2 sezioni uguali con lo stessa classe che sarà un flexbox in colonna di un paragrafo ed un div interno (flexbox row)  per creare quadrato+rettangolo (simil parte superiore senza il border radius)
