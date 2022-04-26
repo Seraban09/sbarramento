@@ -8,4 +8,4 @@ Aside (parte destra)
 Flexbox principale a colonna di 3contenitori con justify-content in space between:
 Parte superiore: Elemento con Border Radius 50% per arrotondarlo e rettangolo (flexbox row)
 Parte inferiore: Un rettangolone 
-Parte centrale: 2 sezioni uguali con lo stessa classe che sarà un flexbox in colonna di un paragrafo ed un div interno (flexbox row)  per creare quadrato+rettangolo (simil parte superiore senza il border radius)
+Parte centrale: 2 sezioni uguali con lo stessa classe che sarà un flexbox in colonna di un paragrafo ed un div interno (flexbox row)  per creare quadrato+rettangolo x3 (simil parte superiore senza il border radius)
